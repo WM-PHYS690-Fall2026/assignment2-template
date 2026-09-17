@@ -8,6 +8,12 @@ The notebook downloads the public Pantheon supernova table from the Pantheon dat
 https://raw.githubusercontent.com/dscolnic/Pantheon/master/lcparam_full_long.txt
 ```
 
+The full Pantheon data-release repository is available at:
+
+```text
+https://github.com/dscolnic/Pantheon
+```
+
 Do not commit downloaded data files, generated scratch outputs, or virtual environments.
 
 ## Repository Layout
@@ -78,3 +84,8 @@ You should also update this `README.md` so another person can rerun your noteboo
 This repository should remain private inside the `WM-PHYS690-Fall2026` GitHub organization. Make meaningful commits as you work, then push your final work.
 
 Finally, submit a pull request from the `submission` branch into `main` in your private assignment repository. This will inform Prof. Stevens that your submission is ready to be evaluated.
+
+## References
+
+- D. M. Scolnic et al., *The Complete Light-curve Sample of Spectroscopically Confirmed SNe Ia from Pan-STARRS1 and Cosmological Constraints from the Combined Pantheon Sample*, Astrophysical Journal 859, 101 (2018), arXiv: [1710.00845](https://arxiv.org/abs/1710.00845).
+- Pantheon data-release repository: https://github.com/dscolnic/Pantheon
